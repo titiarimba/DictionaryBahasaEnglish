@@ -4,7 +4,7 @@
 
 ## Tentang
 
-Project ini merupakan Tugas Submission ke 3 untuk kelas [MADE Dicoding] (https://www.dicoding.com/academies/14).
+Project ini merupakan Tugas Submission ke 3 untuk kelas [MADE Dicoding](https://www.dicoding.com/academies/14).
 
 
 ### Checklist Modul
