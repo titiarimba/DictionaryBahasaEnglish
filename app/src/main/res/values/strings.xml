@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KamusDicoding</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_first_run">App First Run</string>
+
+    <string name="eng_ind">English-Bahasa</string>
+    <string name="ind_eng">Bahasa-English</string>
+
+    <string name="search_bar">Type a word</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
