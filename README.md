@@ -26,6 +26,7 @@ Adapun pada project ini menggunakan beberapa modul sebagai referensi:
 ## Notes
 
 Untuk Teman-teman yang sedang mengerjakan MADE, Semangat ya. Pantang menyerah sebelum deadline datang :muscle:
+<br> Bintang nya jangan lupa teman-teman :star:
 
 
 
